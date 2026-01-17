@@ -1,6 +1,8 @@
 ## Workflow
 
 - `main`: producción (protegida)
+- `juan`: producción de juan
+- `perez`: producción de perez
 - `develop`: integración
 - `feature/*`: nuevas funcionalidades
 - `hotfix/*`: errores críticos
