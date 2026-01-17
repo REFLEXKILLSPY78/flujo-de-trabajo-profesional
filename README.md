@@ -1,2 +1,13 @@
-# flujo-de-trabajo-profesional
-aprendizaje de porgramación
+## Workflow
+
+- `main`: producción (protegida)
+- `develop`: integración
+- `feature/*`: nuevas funcionalidades
+- `hotfix/*`: errores críticos
+
+### Reglas
+- ❌ No push directo a main
+- ✅ Todo entra por Pull Request
+- ✅ CI obligatorio
+- ✅ 1–2 aprobaciones mínimas
+- ❌ No rebase en ramas compartidas
